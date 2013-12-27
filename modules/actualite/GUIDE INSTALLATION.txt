@@ -1,0 +1,11 @@
+1/ Déplacer le dossier complet dans modules
+2/ Connecter vous en admin sur prestashop
+3/ Dans Modules/Modules cliquer sur la catégorie "Autres modules"
+4/ Cliquer sur installer
+5/ Dans administration/menus , creer deux menu
+6/ Nom: Actualités, Classe: Actualite, Module: actualite, Parent: Accueil
+7/ Nom: Gérer les actualités, Classe: AdminActualite, Module: actualite, Parent: Actulités
+
+Voilà le module est prêt à être utilisé
+
+PS: si le module n'apprait pas aller dans modules/position greffer un module

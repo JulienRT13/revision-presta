@@ -1,0 +1,24 @@
+*{margin:0;padding:0;}
+a{text-decoration:none;color:#93d3d1;}
+body{font-family: 'Dosis', sans-serif;}
+.clear{clear:both;}
+#header-bandeau{width:100%;background:url(../img/fond-header.jpg) top left repeat-x;height:79px;min-width:1150px;}
+#header-bandeau .logo{margin-left:10%;margin-top:10px;float:left;}
+.sf-contener.clearfix{width:100%;height: 70px;}
+.sf-contener.clearfix .sf-menu{background:url(../img/fond-menu.jpg) top left repeat-x;width:100%;height:70px;padding:0;margin:0;}
+.sf-contener.clearfix .sf-menu li{height:70px;border:0;}
+.sf-contener.clearfix .sf-menu li a{color:#7d7253;line-height:70px;font-size:16px;}
+.sf-contener.clearfix .sf-menu .sfHover{background:url(../img/fond-menu-hover.jpg) top left repeat-x;}
+.sf-contener.clearfix .sf-menu li a:hover{background-color:#f54922;}
+.sf-contener.clearfix .sf-menu li ul{margin-top:35px;}
+.sf-contener.clearfix .sf-menu li ul li{background-color:#fbf2d3;height:35px;font-size:14px;}
+.sf-contener.clearfix .sf-menu li ul li a{line-height:18px;height:20px;width:130px;border-radius:10px;margin-top:7px;margin-left:5px;}
+.sf-contener.clearfix .sf-menu li ul li a:hover{color:white;text-shadow: 0 1px 0 white;}
+
+.breadcrumb{margin:0 20px 20px 20px;}
+#columns{width:1400px;margin:0 auto;}
+#left_column{width:200px;float:left;margin-right:20px;}
+#center_column{float:left;width:960px;}
+#right_column{width:200px;float:left;margin-left:20px;}
+
+.bx-wrapper{height:auto !important;}
